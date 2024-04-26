@@ -3,5 +3,5 @@ bin/
 *.class
 
 ## VS Code
-.vscode/
+.vscode
 .code-workspace
