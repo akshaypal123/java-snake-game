@@ -1,1 +1,7 @@
-.vscode
+## Java
+bin/
+*.class
+
+## VS Code
+.vscode/
+.code-workspace
